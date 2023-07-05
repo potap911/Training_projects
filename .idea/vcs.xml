@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JSONHandler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/beggest_folder_finder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file_encryptor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file_experiment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder_sizeMeter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/images_downloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library_striemAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movements_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nio_example" vcs="Git" />
+  </component>
+</project>
