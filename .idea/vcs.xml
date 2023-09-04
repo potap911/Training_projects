@@ -2,7 +2,19 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/BubbleSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/GreedyAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/HanoiTowers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/Huffman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/MergeSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/QuickSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/Recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithms_and_structures_of_data/TaskOfBoxes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JSONHandler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode/LongestCommonPrefix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode/Palindrom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode/RomanToInt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode/SumTwo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/beggest_folder_finder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/file_encryptor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/file_experiment" vcs="Git" />
